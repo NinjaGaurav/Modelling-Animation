@@ -1,3 +1,3 @@
 # Modelling-Animation
 Contains various projects open to improvements and further use :)
-*Project file* and it's *rendered image* has been uploaded in *.png* format in the *project's folder*.
+*Project file* and it's *rendered output* has been uploaded in the *Project's folder*.
