@@ -1,0 +1,57 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>GAURAVLAPTOP</machinename>
+      <username>sunil</username>
+      <processortype>AuthenticAMD, stepping 0, model 1, instruction family 15</processortype>
+      <processorname>AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx</processorname>
+      <processornumber>8</processornumber>
+      <ostype>WINDOWS 64 BIT</ostype>
+      <osversion>Windows 10, 64 Bit, Single Language (build 16299)</osversion>
+      <oglvendorname>Advanced_Micro_Devices</oglvendorname>
+      <oglrendername>Radeon RX 560X Series</oglrendername>
+      <oglversion>3.2.13497 Compatibility Profile Context 23.20.826.8448</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>20026</c4dversion>
+      <c4dplugins>houdiniconfig addons advanced render alembic archigrass bitmapfilter bpexchange browser ca ca2 cadexchange clothilde collada14 collada15 colorchoosergui compositing dwg dwgobjects dynamics exchanges expressiontag fbx gpurenderer hair i_skp iges io_obj licenseserver metrics mkmodeler mocca model mograph motioncam motiontracker nbp newman nodeeditor objects onlinehelp onlineupdater python relaxuv sculpt sculptbrushes shader sketch sky sla spacemouse substance teamrender texturemanager thinking particles tpoperators volumes walkthrough xpressocore xtensions </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>piyush.c4d</filename>
+    <filepath>C:\Users\sunil\Documents</filepath>
+    <renderdatainfo>
+      <rendersettings>My Render Setting</rendersettings>
+      <take>Main</take>
+      <camera>Default Camera</camera>
+      <width>1280</width>
+      <height>720</height>
+      <filmaspect>1.778</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>30</fps>
+      <from>0</from>
+      <to>0</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>C:\Users\sunil\Documents</imagepath>
+        <imagedepth>8</imagedepth>
+        <imageformat>TIF</imageformat>
+      </saveinfo>
+      <renderengine>
+        <engine id="1037639" name="ProRender" />
+      </renderengine>
+      <videopost>
+        <effect id="1037639" name="ProRender" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+    <imageinfo frame="0">00:00:12 C:\Users\sunil\Documents\piyush_Editor_a.tif</imageinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>04-11-2018, 01:28:58</added>
+    <started>04-11-2018, 01:31:38</started>
+    <rendertime>00:00:12</rendertime>
+    <result>Finished</result>
+  </batchinfo>
+</batchrender>
