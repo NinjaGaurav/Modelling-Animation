@@ -1,2 +1,2 @@
 # Modelling-Animation
-Contains various project open to improvements and further use :)
+Contains various projects open to improvements and further use :)
