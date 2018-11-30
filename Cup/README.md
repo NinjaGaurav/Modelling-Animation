@@ -1,2 +1,2 @@
-![](Cup/cup.png)
-![](Cup/cup2.png)
+![aaaa](https://github.com/NinjaGaurav/Modelling-Animation/blob/master/Cup/cup.png)
+![aa](cup2.png)
